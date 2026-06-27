@@ -3,7 +3,7 @@ from pathlib import Path
 
 RAW_DATA = Path("data/raw")
 
-crime_file = RAW_DATA / "Crimes_-_2001_to_Present.csv"
+crime_file = RAW_DATA / "Crimes_-_One_year_prior_to_present_20260624.csv"
 housing_file = RAW_DATA / "Affordable_Rental_Housing_Developments.csv"
 population_file = RAW_DATA / "Chicago_Population_Counts (1).csv"
 
